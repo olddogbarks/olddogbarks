@@ -2,7 +2,7 @@
 
 I'm Christopher, a “sometimes working” retired content developer and part-time coder with a passion for contributing to a healthier, more balanced world. My work is rooted not just in technical proficiency but also in the principles of ecological awareness and spirituality. 
 
-## :fontawesome-solid-leaf: Ecological Awareness in Tech 
+## :cactus: Ecological Awareness in Tech 
 
 The technology we create has an enormous impact on our planet. Whether it's energy consumption, e-waste, or the digital carbon footprint of the data centers powering our apps, we cannot ignore our industry's environmental effects.
 
