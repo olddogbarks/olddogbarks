@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+markdown: GFM
+title: cfurlin.github.io
+github:
+  is_project_page: false
