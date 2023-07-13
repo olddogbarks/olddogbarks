@@ -1,4 +1,4 @@
-.markdown-body {
+.markdown-body, .markdown-body html {
   color-scheme: dark;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
