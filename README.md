@@ -21,7 +21,7 @@ I love connecting[^1] with others who share these values, so please feel free to
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=olddogbarks&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=cfurlin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
